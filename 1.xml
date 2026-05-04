@@ -22,7 +22,7 @@
     }
 
     .fullscreen {
-        background: url('https://cdn.jsdelivr.net/gh/awaiblecomponent/fmos@main/background.png') no-repeat center center; /* Çocuklara uygun bir arka plan görseli */
+        background: url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/Screenshot%202026-03-17%203.01.04%20PM.png') no-repeat center center; /* Çocuklara uygun bir arka plan görseli */
         background-size: cover;
         width: 100%;
         height: 100%;
